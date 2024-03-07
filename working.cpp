@@ -4,6 +4,6 @@ using namespace std;
 
 int main(void) {
   cout<<"this is working.cpp";
-  cout<<"working fine\n";
+  cout<<"working fine\n;
   return 0;
 }
